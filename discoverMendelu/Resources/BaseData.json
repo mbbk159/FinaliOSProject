@@ -1,0 +1,251 @@
+[
+  {
+    "qrScanText": "LOCATION-1",
+    "name": "Šárka`s Sanctuary",
+    "latitude": 49.209974,
+    "longitude": 16.615869,
+    "imageName": "BuildingA",
+    "story": "There once was a student desperately trying to finish their thesis, knowing they were out of time. The next morning, their friends couldn’t reach them. When they arrived at the study room, all they found was the student's laptop — with the thesis fully finished. No one ever saw the student again. Legend says they didn’t trade their soul with the devil… but with the divine Šárka Hodovská herself. Since then, students call this room Šárka’s Sanctuary. And if you study late into the night, you might hear whispers — desperate murmurs from the student who vanished.",
+    "question": "Pray to Šárka",
+    "locked": false,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "Praying", "correct": true },
+      { "text": "Place your phone on the table. Do not move it. For 15 seconds, you must pray in silence — no movement, no distractions. If the phone shakes, tilts, or is touched… she’ll know. Devote yourself, as every student should.", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-2",
+    "name": "Traumatising Test Room",
+    "latitude": 49.209984,
+    "longitude": 16.616069,
+    "imageName": "BuildingA",
+    "story": "This is where the most soul-crushing exams take place — Matematika 1 among them. Years ago, a student who had failed too many times uncovered a dark academic loophole: if someone dies during a final, the rest of the class gets an automatic A. So he poisoned a random student on the test list. The victim collapsed mid-exam. Everyone passed. The truth only came out at graduation when the culprit, blackout drunk, confessed everything — and was sentenced to life in prison. Since then, this room has never felt safe again.",
+    "question": "What can guarantee you an A in Matematika 1, according to university legend?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "Studying every night for 6 months straight.", "correct": false },
+      { "text": "Offering your calculator as a tribute to Šárka Hodovská.", "correct": false },
+      { "text": "Someone dying during the final exam.", "correct": true }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-3",
+    "name": "The Quiet Reading Room",
+    "latitude": 49.210365,
+    "longitude": 16.615747,
+    "imageName": "BuildingA",
+    "story": "So quiet it feels unnatural. Break the silence three times, and something comes for you. Some say it appears from thin air — others insist it’s the librarian who transforms, her eyes glowing, her voice inhuman, her body something… else. If you look closely at her, you’ll feel it too — something off, something your brain can’t quite process, but your soul knows isn't right. Shhh...",
+    "question": "I dare you to speak.",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+        {"text": "Speak", "correct": true},
+        {"text": "Break the silence — say anything, even just once. If you do, you’ve made her notice. Are you brave enough?", "correct": false}
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-4",
+    "name": "Communist Hallway",
+    "latitude": 49.211099,
+    "longitude": 16.617800,
+    "imageName": "BuildingB",
+    "story": "A professor once had an office here during the communist era. After a tragic car crash that took his family and damaged his memory, he began waking up each day believing it was the morning of the accident. Thinking his family had just stepped out, he’d pack his things and head to work. The school didn’t know what to do at first, but noticed he quietly stayed in his old office all day, working. So they never changed the hallway — just left it frozen in time. Some say if you come early enough, you might see him walking through, still on his way to work.",
+    "question": "What did the professor sadly lose in the car accident?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "His hatred for communism", "correct": false },
+      { "text": "His family and a bit of his memory", "correct": true },
+      { "text": "His small kitten", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-5",
+    "name": "Julča",
+    "latitude": 49.211232,
+    "longitude": 16.616555,
+    "imageName": "BuildingC",
+    "story": "Mendelu once received a gift — two robo animals meant for teaching: a cow named Julča and a pig called Vlastík. At first, students laughed at them, poked fun, and used them for practice. Just robots, after all. But over time, their behaviour changed. Glitches, strange sounds, reacting when no one touched them. One day, after students teased Vlastík too much, Julča snapped. Three were killed, two injured. Now they stand shut down, posed like statues. But if you stare into Julča’s eyes long enough... some say she blinks back.",
+    "question": "What animals were Julča and Vlastík?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "A horse and a goat", "correct": false },
+      { "text": "A cow and a pig", "correct": true },
+      { "text": "A sheep and a chicken", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-6",
+    "name": "Cloackroom",
+    "latitude": 49.211127,
+    "longitude": 16.616889,
+    "imageName": "BuildingC",
+    "story": "From time to time, a strange, old-fashioned coat appears in the cloakroom — always damp, always cold, and always unclaimed. No one ever dares to touch it. Until one day, a student tried to impress his friends by pretending he wasn’t scared. He laughed, grabbed the coat, and put it on. Instantly, he turned pale and said he felt a chill — but said nothing more, not wanting to seem like a coward. That evening, he vanished on his way home. At his funeral, students gathered in shock. But back at school, the coat had mysteriously reappeared in the cloakroom. Still damp. Still cold.",
+    "question": "According to campus legend, what happens if you dare to wear the mysterious coat in the cloakroom?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "You become the official guardian of lost scarves.", "correct": false },
+      { "text": "You feel a chill — and might never come back.", "correct": true },
+      { "text": "You instantly master all your exams without studying.", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-7",
+    "name": "Lecture Hall",
+    "latitude": 49.210918,
+    "longitude": 16.618676,
+    "imageName": "BuildingE",
+    "story": "Students dread this lecture hall not because of the classes, but because of The Lecture. Every year, a mysterious event appears in the timetable — no teacher, no course name, just “Lecture 404.” Those who attend say the hall dims, the door locks and a faceless professor appears on stage, rambling in an unknown language. When it's over, no one remembers what was said… only that they suddenly understand recursion. Or madness.",
+    "question": "What’s the name of the mysterious lecture that no one remembers?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "Lecture 101", "correct": false },
+      { "text": "Lecture 404", "correct": true },
+      { "text": "Lecture Unknown", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-8",
+    "name": "Mysterious Greenhouse",
+    "latitude": 49.210347,
+    "longitude": 16.614389,
+    "imageName": "BuildingM",
+    "story": "Officially, it’s all tomatoes and basil. Unofficially? Everyone knows Mendelu secretly grows high-grade weed here. But it’s not for the students. Some say professors use it to host secret faculty-only gatherings — where departmental rivalries are settled over smoke-filled debates and interpretive PowerPoint presentations. Others believe the university uses it to microdose the ventilation system and keep students “calm and compliant” during finals. If you ever catch a weird giggle drifting from the greenhouse after dark — don’t go in. Unless you brought snacks.",
+    "question": "According to rumor, what’s the real reason Mendelu’s greenhouse grows something a little unusual?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+        { "text": "To make students smarter — so they actually pass their exams (and make the school look better)", "correct": false },
+      { "text": "To keep students calm and easy to manage during stressful finals (because a chill student is a happy student)", "correct": true },
+      { "text": "To sabotage students so they take longer to graduate and keep paying tuition (the ultimate financial strategy)", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-9",
+    "name": "Script room",
+    "latitude": 49.209239,
+    "longitude": 16.614181,
+    "imageName": "BuildingQ",
+    "story": "This is where all lecture scripts and theses get printed. But beware — not everything that comes out of the printer is what you ordered. One student tried to print their thesis but instead received a mysterious, ancient-looking book titled “Advanced Necroinformatics.” The moment they touched it, the printer froze, and the student couldn’t move. Hours later, they were found staring blankly at the screen, whispering, “The compiler understands me now.” Disclaimer: If you ever print something here and it’s not what you asked for, don’t touch it. Just walk away — slowly.",
+    "question": "What did the student whisper after touching the strange printed book?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "The compiler understands me now.", "correct": true },
+      { "text": "I should have just printed cat memes.", "correct": false },
+      { "text": "Is this going to be on the exam?", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-10",
+    "name": "The Residence of God",
+    "latitude": 49.209329,
+    "longitude": 16.614465,
+    "imageName": "BuildingQ",
+    "story": "Behind this door works Šárka Hodovská — an IT student advisor like no other. She’s called the “IT God” not because of magic, but because she somehow does the impossible. From saving desperate students at the last minute to fixing problems no one else can, her help feels nothing short of miraculous. Many say she’s already saved more students than the entire faculty combined — so it’s no wonder people treat her like a divine guardian. You don’t just knock here. The door either opens for you… or not.",
+    "question": "Why do students call Šárka Hodovská the “IT God”?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "Because she performs miraculous last-minute rescues for desperate students", "correct": true },
+      { "text": "Because she can hack into the university’s secret database", "correct": false },
+      { "text": "Because she once coded an entire app overnight without sleep", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-11",
+    "name": "The Hub",
+    "latitude": 49.209914,
+    "longitude": 16.614172,
+    "imageName": "BuildingQ",
+    "story": "Kids often race through the hallways, but no one really knows what they’re doing on campus. If you try to follow them, they mysteriously vanish. Sometimes, faint whispers and soft laughter echo from the Spatial Hub — a place that feels... off. The lights flicker without warning, and the door sometimes locks itself. No one knows what experiments happen inside, but everyone agrees: it’s best to stay away, especially after dark.",
+    "question": "What happens if you try to follow the kids rushing through campus?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "They vanish before your eyes — like homework deadlines", "correct": true },
+      { "text": "You’ll be held hostage and forced to develop the Mendelu app for eternity", "correct": false },
+      { "text": "You automatically get an A in iOS and Android Development — even if you never enrolled in those classes", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-12",
+    "name": "Midnight Canteen",
+    "latitude": 49.210463,
+    "longitude": 16.614637,
+    "imageName": "BuildingX",
+    "story": "Everyone knows the canteen’s food is... questionable. But there’s a legend about the “Midnight Chef” — a mysterious figure who appears late at night, though only once in a while. Sometimes, a flickering light suddenly appears in the dark canteen. One curious student followed the glow and found the Midnight Chef cooking secret dishes that grant strange powers: suddenly you can ace tests without studying, or stay awake for days without coffee. So maybe watch a bit more closely if you walk by the canteen when it’s dark — you never know when the light might flicker on again.",
+    "question": "How often does the Midnight Chef appear in the canteen?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "Every night without fail", "correct": false },
+      { "text": "Only once in a blue moon, when the light flickers", "correct": true },
+      { "text": "Whenever someone dares to eat the mystery meat", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-13",
+    "name": "Shaded Chill Spot",
+    "latitude": 49.214929,
+    "longitude": 16.615181,
+    "imageName": "Arboretum",
+    "story": "This strange wooden structure in the arboretum isn’t some deep architectural mystery — it’s just the chillest spot on campus. Students gather here to relax, escape lectures, or casually sip wine from the school winery like it’s completely normal. Some say more friendships (and failed group projects) have started here than anywhere else at Mendelu. On warm afternoons, it turns into a mix of picnics, therapy sessions, and unofficial wine tasting. No one schedules anything here — you just end up there.",
+    "question": "Raise a toast to student tradition.",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "Drink", "correct": true },
+      { "text": "Tilt your phone back like you're taking a sip — wine, coffee, or water, we won't judge. Just a moment of appreciation for chill afternoons, questionable group projects, and the sacred art of doing absolutely nothing.", "correct": false }
+    ]
+  },
+  {
+    "qrScanText": "LOCATION-14",
+    "name": "Zen Pond",
+    "latitude": 49.213714,
+    "longitude": 16.614658,
+    "imageName": "Arboretum",
+    "story": "This place is so peaceful, people say you calm down just by looking at it. The legend goes that a professor used to meditate here every morning before class. Each day he stayed a bit longer — first, he was late, then he stopped showing up altogether. He remained by the pond for years, unmoving, unchanged, not ageing a day. Until one morning… he was simply gone. Some believe the school had him quietly removed. Others say he reached true enlightenment. Since then, the pond has held a strange, calming energy — like he left a piece of himself behind. Students still come here to breathe, reflect… maybe even to seek their own answers.",
+    "question": "What happened to the professor who meditated by the pond?",
+    "locked": true,
+    "qrScanned": false,
+    "completed": false,
+    "hasAnimated": false,
+    "answers": [
+      { "text": "He fell asleep and missed all his classes", "correct": false },
+      { "text": "He found true enlightenment", "correct": true },
+      { "text": "He became the university’s official yoga instructor", "correct": false }
+    ]
+  }
+]

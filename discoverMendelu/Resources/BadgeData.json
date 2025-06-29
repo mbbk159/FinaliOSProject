@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Badge A",
+    "image": "budova_a",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge B",
+    "image": "budova_b",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge C",
+    "image": "budova_c",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge E",
+    "image": "budova_e",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge M",
+    "image": "budova_m",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge Q",
+    "image": "budova_q",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge X",
+    "image": "budova_x",
+    "locked": true,
+    "hasAnimated": false
+  },
+  {
+    "name": "Badge Arboretum",
+    "image": "arboretum",
+    "locked": true,
+    "hasAnimated": false
+  }
+]

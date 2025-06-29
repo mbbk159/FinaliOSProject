@@ -1,0 +1,590 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		4FE941B52DE860AA002BF716 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FE9419C2DE860A7002BF716 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4FE941A32DE860A7002BF716;
+			remoteInfo = discoverMendelu;
+		};
+		4FE941BF2DE860AA002BF716 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FE9419C2DE860A7002BF716 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4FE941A32DE860A7002BF716;
+			remoteInfo = discoverMendelu;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4FE941A42DE860A7002BF716 /* discoverMendelu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = discoverMendelu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FE941B42DE860AA002BF716 /* discoverMendeluTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = discoverMendeluTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FE941BE2DE860AA002BF716 /* discoverMendeluUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = discoverMendeluUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		AC3D293B2E00190C00D59B23 /* Exceptions for "discoverMendelu" folder in "discoverMendelu" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 4FE941A32DE860A7002BF716 /* discoverMendelu */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4FE941A62DE860A7002BF716 /* discoverMendelu */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				AC3D293B2E00190C00D59B23 /* Exceptions for "discoverMendelu" folder in "discoverMendelu" target */,
+			);
+			path = discoverMendelu;
+			sourceTree = "<group>";
+		};
+		4FE941B72DE860AA002BF716 /* discoverMendeluTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = discoverMendeluTests;
+			sourceTree = "<group>";
+		};
+		4FE941C12DE860AA002BF716 /* discoverMendeluUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = discoverMendeluUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4FE941A12DE860A7002BF716 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE941B12DE860AA002BF716 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE941BB2DE860AA002BF716 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4FE9419B2DE860A7002BF716 = {
+			isa = PBXGroup;
+			children = (
+				4FE941A62DE860A7002BF716 /* discoverMendelu */,
+				4FE941B72DE860AA002BF716 /* discoverMendeluTests */,
+				4FE941C12DE860AA002BF716 /* discoverMendeluUITests */,
+				AC3D293D2E00236C00D59B23 /* Frameworks */,
+				4FE941A52DE860A7002BF716 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4FE941A52DE860A7002BF716 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4FE941A42DE860A7002BF716 /* discoverMendelu.app */,
+				4FE941B42DE860AA002BF716 /* discoverMendeluTests.xctest */,
+				4FE941BE2DE860AA002BF716 /* discoverMendeluUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AC3D293D2E00236C00D59B23 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4FE941A32DE860A7002BF716 /* discoverMendelu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4FE941C82DE860AA002BF716 /* Build configuration list for PBXNativeTarget "discoverMendelu" */;
+			buildPhases = (
+				4FE941A02DE860A7002BF716 /* Sources */,
+				4FE941A12DE860A7002BF716 /* Frameworks */,
+				4FE941A22DE860A7002BF716 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4FE941A62DE860A7002BF716 /* discoverMendelu */,
+			);
+			name = discoverMendelu;
+			packageProductDependencies = (
+			);
+			productName = discoverMendelu;
+			productReference = 4FE941A42DE860A7002BF716 /* discoverMendelu.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4FE941B32DE860AA002BF716 /* discoverMendeluTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4FE941CB2DE860AA002BF716 /* Build configuration list for PBXNativeTarget "discoverMendeluTests" */;
+			buildPhases = (
+				4FE941B02DE860AA002BF716 /* Sources */,
+				4FE941B12DE860AA002BF716 /* Frameworks */,
+				4FE941B22DE860AA002BF716 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4FE941B62DE860AA002BF716 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4FE941B72DE860AA002BF716 /* discoverMendeluTests */,
+			);
+			name = discoverMendeluTests;
+			packageProductDependencies = (
+			);
+			productName = discoverMendeluTests;
+			productReference = 4FE941B42DE860AA002BF716 /* discoverMendeluTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4FE941BD2DE860AA002BF716 /* discoverMendeluUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4FE941CE2DE860AA002BF716 /* Build configuration list for PBXNativeTarget "discoverMendeluUITests" */;
+			buildPhases = (
+				4FE941BA2DE860AA002BF716 /* Sources */,
+				4FE941BB2DE860AA002BF716 /* Frameworks */,
+				4FE941BC2DE860AA002BF716 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4FE941C02DE860AA002BF716 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4FE941C12DE860AA002BF716 /* discoverMendeluUITests */,
+			);
+			name = discoverMendeluUITests;
+			packageProductDependencies = (
+			);
+			productName = discoverMendeluUITests;
+			productReference = 4FE941BE2DE860AA002BF716 /* discoverMendeluUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4FE9419C2DE860A7002BF716 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					4FE941A32DE860A7002BF716 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					4FE941B32DE860AA002BF716 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 4FE941A32DE860A7002BF716;
+					};
+					4FE941BD2DE860AA002BF716 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 4FE941A32DE860A7002BF716;
+					};
+				};
+			};
+			buildConfigurationList = 4FE9419F2DE860A7002BF716 /* Build configuration list for PBXProject "discoverMendelu" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4FE9419B2DE860A7002BF716;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4FE941A52DE860A7002BF716 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4FE941A32DE860A7002BF716 /* discoverMendelu */,
+				4FE941B32DE860AA002BF716 /* discoverMendeluTests */,
+				4FE941BD2DE860AA002BF716 /* discoverMendeluUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4FE941A22DE860A7002BF716 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE941B22DE860AA002BF716 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE941BC2DE860AA002BF716 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4FE941A02DE860A7002BF716 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE941B02DE860AA002BF716 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE941BA2DE860AA002BF716 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4FE941B62DE860AA002BF716 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4FE941A32DE860A7002BF716 /* discoverMendelu */;
+			targetProxy = 4FE941B52DE860AA002BF716 /* PBXContainerItemProxy */;
+		};
+		4FE941C02DE860AA002BF716 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4FE941A32DE860A7002BF716 /* discoverMendelu */;
+			targetProxy = 4FE941BF2DE860AA002BF716 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4FE941C62DE860AA002BF716 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4FE941C72DE860AA002BF716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4FE941C92DE860AA002BF716 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"discoverMendelu/Preview Content\"";
+				DEVELOPMENT_TEAM = Z8K2TRFM2B;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = discoverMendelu/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Discover Mendelu";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to scan QR codes.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to detect task completion.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.mendelu.discoverMendelu;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4FE941CA2DE860AA002BF716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"discoverMendelu/Preview Content\"";
+				DEVELOPMENT_TEAM = Z8K2TRFM2B;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = discoverMendelu/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Discover Mendelu";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to scan QR codes.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to detect task completion.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.mendelu.discoverMendelu;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4FE941CC2DE860AA002BF716 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.mendelu.discoverMendeluTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/discoverMendelu.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/discoverMendelu";
+			};
+			name = Debug;
+		};
+		4FE941CD2DE860AA002BF716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.mendelu.discoverMendeluTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/discoverMendelu.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/discoverMendelu";
+			};
+			name = Release;
+		};
+		4FE941CF2DE860AA002BF716 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.mendelu.discoverMendeluUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = discoverMendelu;
+			};
+			name = Debug;
+		};
+		4FE941D02DE860AA002BF716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.mendelu.discoverMendeluUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = discoverMendelu;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4FE9419F2DE860A7002BF716 /* Build configuration list for PBXProject "discoverMendelu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE941C62DE860AA002BF716 /* Debug */,
+				4FE941C72DE860AA002BF716 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4FE941C82DE860AA002BF716 /* Build configuration list for PBXNativeTarget "discoverMendelu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE941C92DE860AA002BF716 /* Debug */,
+				4FE941CA2DE860AA002BF716 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4FE941CB2DE860AA002BF716 /* Build configuration list for PBXNativeTarget "discoverMendeluTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE941CC2DE860AA002BF716 /* Debug */,
+				4FE941CD2DE860AA002BF716 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4FE941CE2DE860AA002BF716 /* Build configuration list for PBXNativeTarget "discoverMendeluUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE941CF2DE860AA002BF716 /* Debug */,
+				4FE941D02DE860AA002BF716 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4FE9419C2DE860A7002BF716 /* Project object */;
+}
